@@ -1,2 +1,2 @@
 # CMSnake
-An open source, python-based CMS.
+A small, Python-based content management system for static websites.
